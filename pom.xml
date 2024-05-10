@@ -13,6 +13,7 @@
         <module>MyRPC-server</module>
         <module>MyRPC-protocol</module>
         <module>MyRPC-base</module>
+        <module>MyRPC-registry</module>
     </modules>
 
     <properties>
